@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "45",
-        "author": "Salamander"
+        "author": "Salamander",
+        "throwback": true
     },
     "switches": {
         "20,11": {
